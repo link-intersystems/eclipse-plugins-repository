@@ -4,7 +4,7 @@ eclipse-plugins-repository
 A p2 repository that contains released eclipse-plugins.
 
 - Development Tools Update Site URL
-  https://raw.githubusercontent.com/link-intersystems/eclipse-plugins-repository/master/lis-development-tools
+  https://github.com/link-intersystems/eclipse-plugins-repository/raw/master/lis-development-tools/
 
 
 
